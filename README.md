@@ -12,7 +12,7 @@ I'm from Denmark, currently living in Copenhagen. I'm a huge fan of Java, JavaSc
 
 ## 🔭 I'm currently working on
 
-[<img src="assets/BI.png" alt="business intelligence" height="150px">](https://github.com/sanderMarcusChristensen/BI-Projects)
+[<img src="assets/BI.png" alt="business intelligence" height="100px">](https://github.com/sanderMarcusChristensen/BI-Projects)
 
 
 <!--
