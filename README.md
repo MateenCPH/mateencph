@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+🙋‍♂️ About me
+![profile view count](https://komarev.com/ghpvc/?username=mateencph)
+
 <!--
 **MateenCPH/mateencph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
