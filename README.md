@@ -12,6 +12,8 @@ I'm from Denmark, currently living in Copenhagen. I'm a huge fan of Java, JavaSc
 
 ## 🔭 I'm currently working on
 
+[<img src="assets/BI.png" alt="business intelligence" height="150px">](https://github.com/sanderMarcusChristensen/BI-Projects)
+
 
 <!--
 **MateenCPH/mateencph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
