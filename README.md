@@ -1,6 +1,7 @@
-## Hi there 👋
+## Hi there, my name is Mateen Jan Rafiq 👋
+[![instagram profile link](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mateenjanz0)
 
-🙋‍♂️ About me
+## 🙋‍♂️ About me
 ![profile view count](https://komarev.com/ghpvc/?username=mateencph)
 
 <!--
