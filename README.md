@@ -1,6 +1,6 @@
 ## Hi there, my name is Mateen Jan Rafiq 👋
 [![instagram profile link](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mateenjanz0)
-[![discord server link](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]([https://discord.gg/YOUR_INVITE_CODE](https://discordapp.com/users/696747909546377376))
+[![discord server link](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/696747909546377376)
 
 ## 🙋‍♂️ About me
 ![profile view count](https://komarev.com/ghpvc/?username=mateencph)
