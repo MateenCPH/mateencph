@@ -13,7 +13,8 @@ I'm from Denmark, currently living in Copenhagen. I'm a huge fan of Java, JavaSc
 ## 🔭 I'm currently working on
 
 [<img src="assets/BI.png" alt="business intelligence" height="100px">](https://github.com/sanderMarcusChristensen/BI-Projects)
-
+[<img style="margin-left: 6.5px" src="assets/hospital-logo.png" alt="hospital logo" height="100px">](https://github.com/SYSDAT-PATIENT-ASSIST)
+[<img style="margin-left: 6.5px" src="assets/altf4hub.png" alt="alt f4 hub" height="100px">](https://github.com/FrederikMoestrup/ALF4HUB)
 
 <!--
 **MateenCPH/mateencph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
