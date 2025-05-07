@@ -20,7 +20,8 @@ Skills: JAVA / REACT / JS / SQL / PYTHON / C# / LINUX / UBUNTU / UNITY / CI/CD /
 [<img style="margin-left: 20px" src="assets/hospital-logo.png" alt="hospital logo" height="100px">](https://github.com/SYSDAT-PATIENT-ASSIST)
 [<img style="margin-left: 20px" src="assets/altf4hub.png" alt="alt f4 hub" height="100px">](https://github.com/FrederikMoestrup/ALF4HUB)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MateenCPH&theme=transparent&show_icons=true)  
+[![GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=mateencph&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=mateencph&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=ayu-mirage)
 
