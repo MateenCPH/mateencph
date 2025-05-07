@@ -8,6 +8,8 @@
 
 ![profile view count](https://komarev.com/ghpvc/?username=mateencph)
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=mateencph.978599663&left_color=green&right_color=red)
+
 I'm from Denmark, currently living in Copenhagen. I'm a huge fan of Java, JavaScript, open-source, and writing testable software 💻. When I'm not crushing bugs or building dreams, I can be found playing football ⚽, lifting weights 🏋️, boxing 🥊, and spending quality time with family and friends ❤️
 
 ## 🔭 I'm currently working on
