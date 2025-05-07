@@ -13,7 +13,7 @@ I'm from Denmark, currently living in Copenhagen. I'm a huge fan of Java, JavaSc
 ## 🔭 I'm currently working on
 
 [<img src="assets/BI.png" alt="business intelligence" height="100px">](https://github.com/sanderMarcusChristensen/BI-Projects)
-[<img style="margin-left: 45px" src="assets/hospital-logo.png" alt="hospital logo" height="100px">](https://github.com/SYSDAT-PATIENT-ASSIST)
+[<img style="margin-left: 450px" src="assets/hospital-logo.png" alt="hospital logo" height="100px">](https://github.com/SYSDAT-PATIENT-ASSIST)
 [<img style="margin-left: 45px" src="assets/altf4hub.png" alt="alt f4 hub" height="100px">](https://github.com/FrederikMoestrup/ALF4HUB)
 
 <!--
