@@ -33,32 +33,43 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/CI%2FCD-0A0A0A?style=for-the-badge&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white" />
 </div>
+
+
+## 📊 GitHub Stats
+<div align="center">
+  <a href="https://github.com/mateencph/github-readme-stats" style="margin: 10px;">
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=mateencph&show_icons=true&custom_title=General&theme=one_dark_pro" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/mateencph/convoychat" style="margin: 10px;">
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateencph&layout=donut&custom_title=Languages&theme=one_dark_pro&size_weight=0.7&count_weight=0.3" />
+  </a>
+</div>
+
+## 🔭 I'm currently working on
 
 ## 🔭 I'm currently working on
 
 <div align="center">
   <a href="https://github.com/sanderMarcusChristensen/BI-Projects">
-    <img src="assets/BI.png" alt="business intelligence" height="150px" style="margin: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanderMarcusChristensen&repo=BI-Projects&theme=one_dark_pro&border_color=30363d" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/SYSDAT-PATIENT-ASSIST">
-    <img src="assets/hospital-logo.png" alt="hospital logo" height="150px" style="margin: 20px;">
+  <a href="https://github.com/SYSDAT-PATIENT-ASSIST/SYSDAT-Backend">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SYSDAT-PATIENT-ASSIST&repo=SYSDAT-Backend&theme=one_dark_pro&border_color=30363d" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/SYSDAT-PATIENT-ASSIST/SYSDAT-Frontend">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SYSDAT-PATIENT-ASSIST&repo=SYSDAT-Frontend&theme=one_dark_pro&border_color=30363d" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/FrederikMoestrup/ALF4HUB">
-    <img src="assets/altf4hub.png" alt="alt f4 hub" height="150px" style="margin: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FrederikMoestrup&repo=ALF4HUB&theme=one_dark_pro&border_color=30363d" />
   </a>
 </div>
 
-<div align="center">
-  <a href="https://github.com/mateencph/github-readme-stats" style="margin: 10px;">
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=mateencph&show_icons=true&theme=one_dark_pro" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/mateencph/convoychat" style="margin: 10px;">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateencph&layout=donut&theme=one_dark_pro&size_weight=0.7&count_weight=0.3" />
-  </a>
-</div>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=ayu-mirage)
