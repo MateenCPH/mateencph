@@ -17,7 +17,7 @@ I'm from Denmark, currently living in Copenhagen. I'm a huge fan of Java, JavaSc
 [<img style="margin-left: 20px" src="assets/altf4hub.png" alt="alt f4 hub" height="100px">](https://github.com/FrederikMoestrup/ALF4HUB)
 
 ## 🌱 I’m currently learning
-![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=black&qColor=%23944bcc&aColor=%23bbdb51)
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=ayu-mirage)
 
 <!--
 **MateenCPH/mateencph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
