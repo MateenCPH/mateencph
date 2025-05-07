@@ -23,7 +23,7 @@ Skills: JAVA / REACT / JS / SQL / PYTHON / C# / LINUX / UBUNTU / UNITY / CI/CD /
   <img src="https://github-readme-stats.vercel.app/api?username=mateencph&show_icons=true&theme=one_dark_pro" />
 </a>
 <a href="https://github.com/mateencph/convoychat">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateencph&layout=donut&theme=one_dark_pro&size_weight=0.5&count_weight=0.5" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateencph&layout=donut&theme=one_dark_pro&size_weight=0.7&count_weight=0.3" />
 </a>
 </div>
 
