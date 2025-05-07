@@ -27,7 +27,7 @@ Skills: JAVA / REACT / JS / SQL / PYTHON / C# / LINUX / UBUNTU / UNITY / CI/CD /
     srcset="https://github-readme-stats.vercel.app/api?username=mateencph&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mateencph&show_icons=true" />
 </picture>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=ayu-mirage)
