@@ -18,8 +18,15 @@ Skills: JAVA / REACT / JS / SQL / PYTHON / C# / LINUX / UBUNTU / UNITY / CI/CD /
 [<img style="margin-left: 20px" src="assets/hospital-logo.png" alt="hospital logo" height="100px">](https://github.com/SYSDAT-PATIENT-ASSIST)
 [<img style="margin-left: 20px" src="assets/altf4hub.png" alt="alt f4 hub" height="100px">](https://github.com/FrederikMoestrup/ALF4HUB)
 
-[![GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=mateencph&show_icons=true&theme=one_dark_pro#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=mateencph&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+<a id="stats-Dark" href="https://github.com/mateencph/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mateencph&show_icons=true&theme=one_dark_pro#gh-dark-mode-only" />
+</a>
+<a id="stats-Light" href="https://github.com/mateencph/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mateencph&show_icons=true&theme=default#gh-light-mode-only" />
+</a>
+<a href="https://github.com/mateencph/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mateencph&repo=convoychat" />
+</a>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=ayu-mirage)
 
