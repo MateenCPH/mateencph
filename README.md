@@ -52,24 +52,27 @@
 ## 🔭 I'm currently working on
 
 <div align="center">
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 24px;">
+  <div style="display: flex; flex-wrap: wrap; justify-content: center;">
 
   <a href="https://github.com/sanderMarcusChristensen/BI-Projects">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanderMarcusChristensen&repo=BI-Projects&theme=one_dark_pro&border_color=30363d" />
   </a>
-
+&nbsp;&nbsp;
   <a href="https://github.com/SYSDAT-PATIENT-ASSIST/BackEnd">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=SYSDAT-PATIENT-ASSIST&repo=BackEnd&theme=one_dark_pro&border_color=30363d" />
   </a>
+</div>
 
+  <br/>
+
+  <div style="display: flex; flex-wrap: wrap; justify-content: center;">
   <a href="https://github.com/SYSDAT-PATIENT-ASSIST/FrontEnd">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=SYSDAT-PATIENT-ASSIST&repo=FrontEnd&theme=one_dark_pro&border_color=30363d" />
   </a>
-
+&nbsp;&nbsp;
   <a href="https://github.com/FrederikMoestrup/ALF4HUB">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=FrederikMoestrup&repo=ALF4HUB&theme=one_dark_pro&border_color=30363d" />
   </a>
-
   </div>
 </div>
 
