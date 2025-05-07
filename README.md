@@ -1,5 +1,8 @@
+###### Contact & Socials
 [![instagram profile link](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mateenjanz0)
+&nbsp;&nbsp;
 [![discord profile link](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/696747909546377376)
+&nbsp;&nbsp;
 [![spotify profile link](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/mateenjan1)
 ## **Mateen Jan Rafiq**
 📍 I'm from **Denmark**, currently living in **Copenhagen**. <br/>
@@ -76,6 +79,3 @@
   </div>
 </div>
 
-
-
-![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=ayu-mirage)
