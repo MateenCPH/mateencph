@@ -62,7 +62,8 @@
   <div style="display: flex; flex-wrap: wrap; justify-content: center;">
   <a href="https://github.com/SYSDAT-PATIENT-ASSIST/FrontEnd">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=SYSDAT-PATIENT-ASSIST&repo=FrontEnd&theme=one_dark_pro&border_color=30363d" />
-  </a>&nbsp;
+  </a>
+    &nbsp;
   <a href="https://github.com/FrederikMoestrup/ALF4HUB">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=FrederikMoestrup&repo=ALF4HUB&theme=one_dark_pro&border_color=30363d" />
   </a>
@@ -72,8 +73,8 @@
 ## 📬 Contact & Socials
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mateenjan@live.dk)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateen-jan-rafiq-00719915a/)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateen-jan-rafiq-00719915a/)&nbsp;&nbsp;
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/leomateen)&nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mateenjanz0)&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mateenjanz0)&nbsp;&nbsp;
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/696747909546377376)&nbsp;
 [![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/mateenjan1)&nbsp;
