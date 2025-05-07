@@ -20,10 +20,10 @@ Skills: JAVA / REACT / JS / SQL / PYTHON / C# / LINUX / UBUNTU / UNITY / CI/CD /
 
 <div align="center" style="display: flex; justify-content: center; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
 <a href="https://github.com/mateencph/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=mateencph&show_icons=true&theme=one_dark_pro" />
+  <img height=200 src="https://github-readme-stats.vercel.app/api?username=mateencph&show_icons=true&theme=one_dark_pro" />
 </a>
 <a href="https://github.com/mateencph/convoychat">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateencph&layout=donut&theme=one_dark_pro&size_weight=0.7&count_weight=0.3" />
+  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateencph&layout=donut&theme=one_dark_pro&size_weight=0.7&count_weight=0.3" />
 </a>
 </div>
 
