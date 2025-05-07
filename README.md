@@ -58,12 +58,12 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanderMarcusChristensen&repo=BI-Projects&theme=one_dark_pro&border_color=30363d" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/SYSDAT-PATIENT-ASSIST/SYSDAT-Backend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SYSDAT-PATIENT-ASSIST&repo=SYSDAT-Backend&theme=one_dark_pro&border_color=30363d" />
+  <a href="https://github.com/SYSDAT-PATIENT-ASSIST/BackEnd">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SYSDAT-PATIENT-ASSIST&repo=Backend&theme=one_dark_pro&border_color=30363d" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/SYSDAT-PATIENT-ASSIST/SYSDAT-Frontend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SYSDAT-PATIENT-ASSIST&repo=SYSDAT-Frontend&theme=one_dark_pro&border_color=30363d" />
+  <a href="https://github.com/SYSDAT-PATIENT-ASSIST/FrontEnd">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SYSDAT-PATIENT-ASSIST&repo=Frontend&theme=one_dark_pro&border_color=30363d" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/FrederikMoestrup/ALF4HUB">
