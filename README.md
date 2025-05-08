@@ -42,7 +42,7 @@
   </a>
   &nbsp;
   <a href="https://github.com/mateencph/convoychat" style="margin: 10px;">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateencph&layout=donut&custom_title=Languages&theme=one_dark_pro&size_weight=0.7&count_weight=0.3" />
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateencph&layout=donut&custom_title=Languages&theme=one_dark_pro&size_weight=0.3&count_weight=0.7" />
   </a>
 </div>
 
