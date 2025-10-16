@@ -1,6 +1,6 @@
 ## **Mateen Jan Rafiq**
 📍 I'm from **Denmark**, currently living in **Copenhagen**. <br/>
-📚 23-year old **aspiring** *Full-Stack* *Developer* currently studying at **CPHBusiness**.<br/>
+📚 23-year old **aspiring** *Full-Stack* *Developer* currently studying at **Erhvervsakademi København**.<br/>
 🏢 I work as a *Student Assistant* at **[Danish Technological Institute](https://www.dti.dk/)**, but currently at a 3-month internship in the same  company.<br/>
 🌞 When I'm not crushing bugs or building dreams, I can be found playing football ⚽, lifting weights 🏋️, boxing 🥊, and spending quality time with **friends** and **family** ❤️.
 
