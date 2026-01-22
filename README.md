@@ -51,24 +51,13 @@
 
 <div align="center">
   <div style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <a href="https://github.com/sanderMarcusChristensen/BI-Projects">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanderMarcusChristensen&repo=BI-Projects&theme=one_dark_pro&border_color=30363d" />
+  <a href="https://github.com/MateenCPH/G_Workv2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MateenCPH&repo=G_Workv2&theme=one_dark_pro&border_color=30363d" />
   </a>
 &nbsp;
-  <a href="https://github.com/SYSDAT-PATIENT-ASSIST/BackEnd">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SYSDAT-PATIENT-ASSIST&repo=BackEnd&theme=one_dark_pro&border_color=30363d" />
+  <a href="https://github.com/MateenCPH/frontend_gwork">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MateenCPH&repo=frontend_gwork&theme=one_dark_pro&border_color=30363d" />
   </a>
-</div>
-  &nbsp;
-  <div style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <a href="https://github.com/SYSDAT-PATIENT-ASSIST/FrontEnd">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SYSDAT-PATIENT-ASSIST&repo=FrontEnd&theme=one_dark_pro&border_color=30363d" />
-  </a>
-    &nbsp;
-  <a href="https://github.com/FrederikMoestrup/ALF4HUB">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FrederikMoestrup&repo=ALF4HUB&theme=one_dark_pro&border_color=30363d" />
-  </a>
-  </div>
 </div>
 
 ## 📬 Contact & Socials
